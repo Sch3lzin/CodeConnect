@@ -174,6 +174,8 @@ botaoPublicar.addEventListener("click", async (event) => {
 
 });
 
+// Reset no formulario
+
 const botaoDescartar = document.querySelector(".botao-descartar");
 
 botaoDescartar.addEventListener("click", (event) => {
